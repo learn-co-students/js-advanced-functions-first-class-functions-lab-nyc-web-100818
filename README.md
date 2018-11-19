@@ -1,4 +1,4 @@
-# First-Class Functions Lab
+# First-Class Functions Lab 
 
 ## Objectives
 1. Invoke functions assigned to a variable.
